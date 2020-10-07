@@ -1,2 +1,2 @@
 # NLP
-my NPL first steps 
+my first NPL steps 
